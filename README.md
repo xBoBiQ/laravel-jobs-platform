@@ -1,10 +1,9 @@
-<h1 align="center" id="title">Laravel Jobs Platform</h1>
+<h1 id="title">Laravel Jobs Platform</h1>
 
 <br />
-<hr>
 <br />
 
-<p id="description">This project is a fictional jobs board called <strong>Pixel Positions</strong> developed as the final assignment of the <a href="https://laracasts.com/series/30-days-to-learn-laravel-11">30 Days to Learn Laravel</a> course. It demonstrates the full development process of a Laravel application — from HTML/CSS slicing to building a fully functional web platform with authentication search and job management.</p>
+<p id="description">This project is a fictional jobs board called <strong>Pixel Positions</strong> developed as the final assignment of the <a href="https://laracasts.com/series/30-days-to-learn-laravel-11" target="_blank">30 Days to Learn Laravel</a> course. It demonstrates the full development process of a Laravel application — from HTML/CSS slicing to building a fully functional web platform with authentication search and job management.</p>
 
 
   
@@ -20,8 +19,6 @@ Here are some of the project's features:
 *   Storage and form handling
 *   Test-driven development examples
 
-<br />
-
 <h2>🛠️ Installation Steps:</h2>
 
 ```
@@ -29,7 +26,6 @@ git clone https://github.com/xBoBiQ/laravel-jobs-platform.git
 cd laravel-jobs-platform
 ```
 
-  <br />
   
 <h2>💻 Built with</h2>
 
